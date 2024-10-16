@@ -1,1 +1,1 @@
-This site has the best music albums of all time. To start open app.py and run
+This site has the best music albums of all time. To start run app.py file
